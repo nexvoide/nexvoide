@@ -16,7 +16,7 @@ function App() {
   const domains = [
     {
       title: 'Brand & Businesses',
-      subtitle: 'Grow.nexovide.com',
+      subtitle: 'Grow.nexvoide.com',
       url: 'https://grow.nexvoide.com',
       icon: Globe,
       tag: 'Main Platform',
