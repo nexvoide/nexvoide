@@ -17,7 +17,7 @@ function App() {
     {
       title: 'Brand & Businesses',
       subtitle: 'nexovide.com',
-      url: 'https://nexvoide.com',
+      url: 'https://grow.nexvoide.com',
       icon: Globe,
       tag: 'Main Platform',
       description:
